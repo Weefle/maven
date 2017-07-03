@@ -1,0 +1,5 @@
+name: Test
+author: Weefle
+version: 1.0
+description: Test plugin
+main: fr.weefle.test.Test
